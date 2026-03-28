@@ -61,3 +61,6 @@ Here are some of the key projects from my 46 repositories:
 
 ---
 
+<div class="grid place-items-center"><img class="w-full" alt="An animation of pacman eating the github user contributions (like pacman game)" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg"></div>
+
+---
