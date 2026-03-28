@@ -6,7 +6,7 @@ I am a **Full-stack Developer** and **IoT Enthusiast** based in Indonesia. I hav
 
 ---
 
-### 🚀 Featured Projects
+<!--### 🚀 Featured Projects
 Here are some of the key projects from my 46 repositories:
 
 *   **[Nusanwordtekno POS](https://github.com/herisvan321/nusanwordtekno-pos)** - A comprehensive Point of Sales system built with Laravel.
@@ -14,7 +14,7 @@ Here are some of the key projects from my 46 repositories:
 *   **[Temu Aksara](https://github.com/herisvan321/temu-aksara)** - A unique storytelling landing page for a publishing brand.
 *   **ESP32 Automated Systems** - Various IoT projects including automated clotheslines and web-controlled relays.
 
----
+--- -->
 
 ### 💻 Tech Stack & Tools
 
@@ -44,7 +44,7 @@ Here are some of the key projects from my 46 repositories:
 
 ### 💬 Let's Connect!
 - 📺 **YouTube:** -
-- 📧 **Email:** herisvanhendra@gmail.com
+- 📧 **Email:** herisvan321@gmail.com
 - 🌐 **Portfolio:** -
 
 ---
